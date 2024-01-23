@@ -49,7 +49,7 @@ Components:
 5. **Main Block:**  
 - The application runs using Uvicorn on 127.0.0.1:8000, and integration tests validate the system's behavior. 
 
-Implementations 
+<p align="center"><span style="color:#3498db; font-size:24px;"><strong>Implementations</strong></span></p>
 
 1. Imports: 
 - **FastAPI-related Imports:**  
@@ -66,16 +66,10 @@ Implementations
 - Libraries for RSA encryption and decryption (rsa). 
 - Library for base64 encoding/decoding (base64). 
 - **Database and ORM Setup Imports:**  
-- SQLAlchemy function for creating a database engine (create\_engine). 
-- SQLAlchemy class for declarative table class definition (declarative\_base). 
 - **External Process and OS-related Imports:**  
-- Python modules for running external processes (subprocess). 
-- Python module for interacting with the operating system (os). 
 - **Date and Time-related Imports:**  
-- Python modules for working with dates and times (datetime, timedelta). 
-- Library for handling time zones (pytz). 
 - **FastAPI Development Server Import:**  
-- ASGI server for running FastAPI applications (uvicorn). 
+
 2. Database: 
 
 **Database Initialization:** 
