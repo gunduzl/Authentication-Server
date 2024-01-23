@@ -1,6 +1,6 @@
 # <p align="center">**CSE439 TERM PROJECT**</p>
 
-<p align="center">*By*</p>
+<p align="center">By</p>
 
 <p align="center">Abdurrahman Gündüzlü</p>
 
