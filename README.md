@@ -1,12 +1,12 @@
-**CSE439 TERM PROJECT** 
+                                                   **CSE439 TERM PROJECT** 
 
-`                                  `**By** 
+                                                            **By** 
 
-`                   `**Abdurrahman Gündüzlü** 
+                                                   **Abdurrahman Gündüzlü** 
 
-**KERBEROS SERVER DESIGN** 
+                                                  **KERBEROS SERVER DESIGN** 
 
-**Project Report** 
+                                                      **Project Report** 
 
 ![DESIGN](https://github.com/gunduzl/Authentication-Server/assets/69585166/2e76cb1a-f467-4aa2-87f0-6bedcb02bb2d)
 
