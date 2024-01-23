@@ -1,12 +1,33 @@
-# <p align="center">**CSE439 TERM PROJECT**</p>
+<style>
+  .title {
+    text-align: center;
+    font-size: 36px;
+    color: #3498db; /* Blue color */
+  }
 
-<p align="center">By</p>
+  .author {
+    text-align: center;
+    font-style: italic;
+    color: #e74c3c; /* Red color */
+  }
 
-<p align="center">Abdurrahman Gündüzlü</p>
+  .report {
+    text-align: center;
+    font-size: 28px;
+    color: #2ecc71; /* Green color */
+  }
+</style>
 
-# <p align="center">**AUTHENTICATION AND AUTHORIZATION SERVER DESIGN**</p>
+<p class="title">CSE439 TERM PROJECT</p>
 
-<p align="center">*Project Report*</p>
+<p class="author">By</p>
+
+<p>Abdurrahman Gündüzlü</p>
+
+<p class="report">AUTHENTICATION AND AUTHORIZATION SERVER DESIGN</p>
+
+<p>Project Report</p>
+
 
 
 ![DESIGN](https://github.com/gunduzl/Authentication-Server/assets/69585166/2e76cb1a-f467-4aa2-87f0-6bedcb02bb2d)
