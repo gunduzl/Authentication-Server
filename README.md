@@ -6,7 +6,7 @@
 
 <p align="center"><span style="color:#f1c40f; font-size:24px;"><strong>AUTHENTICATION AND AUTHORIZATION SERVER DESIGN</strong></span></p>
 
-<p align="center"><span style="color:#9b59b6; font-size:18px;">*Project Report*</span></p>
+<p align="center"><span style="color:#9b59b6; font-size:18px;">Project Report</span></p>
 
 
 
