@@ -1,14 +1,13 @@
-<pre>                             **CSE439 TERM PROJECT** 
+# <p align="center">**CSE439 TERM PROJECT**</p>
 
-                                        **By** 
+<p align="center">*By*</p>
 
-                                **Abdurrahman Gündüzlü** 
+<p align="center">Abdurrahman Gündüzlü</p>
 
-                    **AUTHENTICATION AND AUTHORIZATION SERVER DESIGN** 
+# <p align="center">**AUTHENTICATION AND AUTHORIZATION SERVER DESIGN**</p>
 
-                                    **Project Report** 
+<p align="center">*Project Report*</p>
 
-</pre>
 
 ![DESIGN](https://github.com/gunduzl/Authentication-Server/assets/69585166/2e76cb1a-f467-4aa2-87f0-6bedcb02bb2d)
 
