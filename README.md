@@ -1,32 +1,13 @@
-<style>
-  .title {
-    text-align: center;
-    font-size: 36px;
-    color: #3498db; /* Blue color */
-  }
+<p align="center"><span style="color:#3498db; font-size:24px;"><strong>CSE439 TERM PROJECT</strong></span></p>
 
-  .author {
-    text-align: center;
-    font-style: italic;
-    color: #e74c3c; /* Red color */
-  }
+<p align="center"><span style="color:#e74c3c; font-size:18px;">By</span></p>
 
-  .report {
-    text-align: center;
-    font-size: 28px;
-    color: #2ecc71; /* Green color */
-  }
-</style>
+<p align="center"><span style="color:#2ecc71; font-size:20px;">Abdurrahman Gündüzlü</span></p>
 
-<p class="title">CSE439 TERM PROJECT</p>
+<p align="center"><span style="color:#f1c40f; font-size:24px;"><strong>AUTHENTICATION AND AUTHORIZATION SERVER DESIGN</strong></span></p>
 
-<p class="author">By</p>
+<p align="center"><span style="color:#9b59b6; font-size:18px;">*Project Report*</span></p>
 
-<p>Abdurrahman Gündüzlü</p>
-
-<p class="report">AUTHENTICATION AND AUTHORIZATION SERVER DESIGN</p>
-
-<p>Project Report</p>
 
 
 
