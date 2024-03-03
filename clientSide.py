@@ -2,7 +2,7 @@ import requests
 import base64
 import rsa
 
-# Load the server's public key
+# Load the server public key
 with open("public.pem", "rb") as f:
     PUBLIC_KEY = rsa.PublicKey.load_pkcs1(f.read())
 
